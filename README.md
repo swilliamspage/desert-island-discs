@@ -12,3 +12,6 @@ scraper_a.py: For each castaway with a first name beginning with the letter a th
  
  # data:
  csv files for all castaways, up to October 2018
+
+# to do:
+Combine code in to one file where you don't have to save links separately first and then manually change the letter in scraper_a.py
