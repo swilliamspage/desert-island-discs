@@ -1,7 +1,6 @@
 # desert-island-discs
 A web scraper that downloads desert island discs data.
 
-Contains:
 # code:
 get_links.py: Saves a csv of urls for each desert island disc episode
 scraper_a.py: For each castaway with a first name beginning with the letter a this saves a csv file containing:
